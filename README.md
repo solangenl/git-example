@@ -1,6 +1,3 @@
-{\rtf1}
-hola
+History log
 
-
-Adiós
-bitbucket
+- Added index.php start
